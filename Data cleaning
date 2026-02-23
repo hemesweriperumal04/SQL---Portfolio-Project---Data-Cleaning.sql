@@ -1,1 +1,6 @@
--- SQL Project - Data Cleaning
+-- 1. Checking for NULL values
+-- 2. Checking duplicates
+-- 3. Checking negative values
+-- 4. Checking foreign key consistency
+-- 5. Validating business rules
+
