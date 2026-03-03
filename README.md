@@ -3,9 +3,9 @@ Raw data comes → stays in staging → gets cleaned → then moved to final tab
 
 External Data
       ↓
-STAGING TABLE (raw)
+STAGING TABLE (raw) - Staging is a temporary area where raw data is stored before cleaning and transforming it.
       ↓
-CLEANING + TRANSFORMATION
+CLEANING + TRANSFORMATION 
       ↓
 FINAL TABLE (analytics ready)
 
