@@ -44,7 +44,7 @@ select * from staging_layoffs
 where company = 'oda'; --- here you can entries are true but only company & industry & total_laid_off, date is duplicate but rest other true entries
 
 --- now we need to find real duplicates with all coloumn names
-
+ 
 select * 
   from 
   (select company, location, industry, total_laid_off,percentage_laid_off,`date`, stage, country, funds_raised_millions,
