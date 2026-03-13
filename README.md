@@ -1,4 +1,5 @@
-# SQL---Portfolio-Project---Data-Cleaning.sql
+LAYOFFS DATASET.DATACLEANING.SQL
+
 Raw data comes → stays in staging → gets cleaned → then moved to final tables.
 
 External Data
